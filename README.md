@@ -1,4 +1,14 @@
-## Hi there 👋
+# M O W 🐈‍⬛
+hai haii! am da **Khumpa**!
+
+I work on a lot of different projects and mow loudly on the internet!
+
+Check out more about myself at [blep.moe](https://blep.moe)!
+
+
+
+
+
 
 <!--
 **Khumpa/Khumpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
