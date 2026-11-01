@@ -1,9 +1,9 @@
 # M O W 🐈‍⬛
-hai haii! am da **Khumpa**!
+### hai haii! am da **Khumpa**!
 
-I work on a lot of different projects and mow loudly on the internet!
+### I work on a lot of different projects and mow loudly on the internet!
 
-Check out more about myself at [blep.moe](https://blep.moe)!
+### Check out more about myself at [blep.moe](https://blep.moe)!
 
 
 
